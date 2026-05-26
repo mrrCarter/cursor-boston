@@ -2,6 +2,8 @@
 /.next
 /out
 /build
+/.playwright-mcp
+/.sentinelayer
 .env
 .env.local
 *.tsbuildinfo

@@ -19,6 +19,9 @@ export const metadata: Metadata = {
   description:
     "MatchRoom turns real Statcast data into a verified coaching brief — scout, skeptic, and coach-ready output in minutes. Built on real MLB data. No invented numbers.",
   metadataBase: new URL("https://matchroom.plexaura.com"),
+  icons: {
+    icon: "/icon.svg",
+  },
   openGraph: {
     title: "MatchRoom — Verified AI coaching room for baseball",
     description:
